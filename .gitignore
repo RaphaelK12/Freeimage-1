@@ -2,3 +2,10 @@
 /Dist
 /TestAPI
 /Examples
+/Source/*/Win32
+/Source/*/arm
+/Source/*/ARM64
+/Source/*/x86
+/Source/*/x64
+/libfreeimage.a
+/libfreeimage-*.so
